@@ -5,7 +5,7 @@
     },
     "servers": [
         {
-            "name": "Emirates",
+            "name": "Dubai",
             "flag_icon": "ae",
             "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
         },
@@ -115,4 +115,5 @@
         "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     }    
     ]
+
 }
