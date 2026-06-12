@@ -12,12 +12,12 @@
         {
             "name": "Germany",
             "flag_icon": "de",
-            "ovpn_file": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
+            "ovpn_file": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn"
         },
         {
             "name": "united-states 2",
             "flag_icon": "us",
-            "ovpn_file": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
+            "ovpn_file": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn"
         },
         {
             "name": "united-states",
