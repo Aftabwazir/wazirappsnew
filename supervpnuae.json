@@ -1,8 +1,8 @@
 
 {
   "VpnController": {
-    "VpnUserName": "pvpn",
-    "VpnPassword": "KholifaNetwork",
+    "VpnUserName": "",
+    "VpnPassword": "",
     "VpnList": [
       {
         "vpnName": "United Arab Emirates",
