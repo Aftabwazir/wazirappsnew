@@ -1,4 +1,3 @@
-
 {
   "VpnController": {
     "VpnUserName": "",
@@ -20,7 +19,6 @@
         "vpnName": "United States 2",
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn",
-        "vpnUser": "aftabwazirzalmi",
         "vpnNoAuth": true
       },
       {
