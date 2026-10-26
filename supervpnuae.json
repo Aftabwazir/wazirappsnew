@@ -1,5 +1,8 @@
 {
-  "VpnList": [
+  "VpnController": {
+    "VpnUserName": "",
+    "VpnPassword": "",
+    "VpnList": [
       {
         "vpnName": "United Arab Emirates",
         "vpnIso": "ae",
