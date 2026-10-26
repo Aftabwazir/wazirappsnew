@@ -1,3 +1,4 @@
+
 {
   "VpnController": {
     "VpnUserName": "pvpn",
@@ -6,31 +7,7 @@
       {
         "vpnName": "United Arab Emirates",
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Netherlands",
-        "vpnIso": "nl",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/NL.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Turkey",
-        "vpnIso": "tr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/TR.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Singapore",
-        "vpnIso": "sg",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/SG.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Iraq",
-        "vpnIso": "iq",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/IQ.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/uae%20fujira.ovpn",
         "vpnNoAuth": true
       },
       {
@@ -47,6 +24,12 @@
         "vpnNoAuth": true
       },
       {
+        "vpnName": "United States Smart",
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/usa%20smart.ovpn",
+        "vpnNoAuth": true
+      },
+      {
         "vpnName": "United Kingdom",
         "vpnIso": "gb",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ukvpn.ovpn",
@@ -59,9 +42,39 @@
         "vpnNoAuth": true
       },
       {
+        "vpnName": "United Kingdom Smart",
+        "vpnIso": "gb",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/uk%20smart.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Netherlands",
+        "vpnIso": "nl",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/111-nl.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Turkey",
+        "vpnIso": "tr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/112-tr.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Singapore",
+        "vpnIso": "sg",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/SG.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Iraq",
+        "vpnIso": "iq",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/IQ.ovpn",
+        "vpnNoAuth": true
+      },
+      {
         "vpnName": "France",
         "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/FR.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/116-fr.ovpn",
         "vpnNoAuth": true
       },
       {
@@ -80,6 +93,24 @@
         "vpnName": "Germany",
         "vpnIso": "de",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/devpn/refs/heads/main/de-10.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Bangladesh",
+        "vpnIso": "bd",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/bangla.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Oman",
+        "vpnIso": "om",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/oman.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Oman 2",
+        "vpnIso": "om",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/oman%202.ovpn",
         "vpnNoAuth": true
       }
     ]
