@@ -1,7 +1,7 @@
 {
   "VpnController": {
-    "VpnUserName": "",
-    "VpnPassword": "",
+    "VpnUserName": "ZETA@FREE",
+    "VpnPassword": "E965367C64A153A449E95B8E701B1E74",
     "VpnList": [
       {
         "vpnName": "United Arab Emirates",
@@ -19,6 +19,7 @@
         "vpnName": "United States 2",
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn",
+        "vpnUser": "aftabwazirzalmi",
         "vpnNoAuth": true
       },
       {
@@ -82,12 +83,6 @@
         "vpnNoAuth": true
       },
       {
-        "vpnName": "Canada",
-        "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
         "vpnName": "Germany",
         "vpnIso": "de",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/devpn/refs/heads/main/de-10.ovpn",
@@ -110,6 +105,420 @@
         "vpnIso": "om",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/oman%202.ovpn",
         "vpnNoAuth": true
+      },
+      {
+        "vpnName": "Pakistan",
+        "vpnIso": "pk",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/pk.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "United Arab Emirates",
+        "vpnIso": "ae",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ae.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Qatar",
+        "vpnIso": "qa",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/qa.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "India",
+        "vpnIso": "in",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/in.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Saudi Arabia",
+        "vpnIso": "sa",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/sa.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Singapore",
+        "vpnIso": "sg",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/sg.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Malaysia",
+        "vpnIso": "my",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/my.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Indonesia",
+        "vpnIso": "id",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/id.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Myanmar",
+        "vpnIso": "mm",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/mm.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Italy",
+        "vpnIso": "it",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/it.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Thailand",
+        "vpnIso": "th",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/th.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Switzerland",
+        "vpnIso": "ch",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ch.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Philippines",
+        "vpnIso": "ph",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ph.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Vietnam",
+        "vpnIso": "vn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/vn.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Poland",
+        "vpnIso": "pl",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/pl.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Germany",
+        "vpnIso": "de",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/de.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Spain",
+        "vpnIso": "es",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/es.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "France",
+        "vpnIso": "fr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/fr.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Hong Kong",
+        "vpnIso": "hk",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/hk.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Bahrain",
+        "vpnIso": "bh",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/bh.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Cambodia",
+        "vpnIso": "kh",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/kh.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Czechia",
+        "vpnIso": "cz",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/cz.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "United Kingdom",
+        "vpnIso": "gb",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/gb.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Netherlands",
+        "vpnIso": "nl",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/nl.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Belgium",
+        "vpnIso": "be",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/be.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Denmark",
+        "vpnIso": "dk",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/dk.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Ireland",
+        "vpnIso": "ie",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ie.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Austria",
+        "vpnIso": "at",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/at.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Hungary",
+        "vpnIso": "hu",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/hu.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Luxembourg",
+        "vpnIso": "lu",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/lu.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Bulgaria",
+        "vpnIso": "bg",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/bg.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Lithuania",
+        "vpnIso": "lt",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/lt.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Ukraine",
+        "vpnIso": "ua",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ua.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Turkey",
+        "vpnIso": "tr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/tr.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Belarus",
+        "vpnIso": "by",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/by.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "South Korea",
+        "vpnIso": "kr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/kr.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Sweden",
+        "vpnIso": "se",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/se.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Romania",
+        "vpnIso": "ro",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ro.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Taiwan",
+        "vpnIso": "tw",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/tw.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Bangladesh",
+        "vpnIso": "bd",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/bd.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Japan",
+        "vpnIso": "jp",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/jp.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Moldova",
+        "vpnIso": "md",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/md.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Norway",
+        "vpnIso": "no",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/no.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Finland",
+        "vpnIso": "fi",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/fi.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Egypt",
+        "vpnIso": "eg",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/eg.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Armenia",
+        "vpnIso": "am",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/am.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Israel",
+        "vpnIso": "il",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/il.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Nepal",
+        "vpnIso": "np",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/np.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Russia",
+        "vpnIso": "ru",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ru.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Australia",
+        "vpnIso": "au",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/au.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "United States",
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/us.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Cyprus",
+        "vpnIso": "cy",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/cy.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Canada",
+        "vpnIso": "ca",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ca.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Serbia",
+        "vpnIso": "rs",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/rs.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Macao",
+        "vpnIso": "mo",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/mo.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Slovakia",
+        "vpnIso": "sk",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/sk.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Latvia",
+        "vpnIso": "lv",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/lv.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Kazakhstan",
+        "vpnIso": "kz",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/kz.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Azerbaijan",
+        "vpnIso": "az",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/az.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Estonia",
+        "vpnIso": "ee",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ee.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Iraq",
+        "vpnIso": "iq",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/iq.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Mexico",
+        "vpnIso": "mx",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/mx.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Oman",
+        "vpnIso": "om",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/om.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Nigeria",
+        "vpnIso": "ng",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ng.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Brazil",
+        "vpnIso": "br",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/br.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Peru",
+        "vpnIso": "pe",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/pe.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "South Africa",
+        "vpnIso": "za",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/za.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Chile",
+        "vpnIso": "cl",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/cl.ovpn",
+        "vpnNoAuth": false
+      },
+      {
+        "vpnName": "Argentina",
+        "vpnIso": "ar",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ovpn/ar.ovpn",
+        "vpnNoAuth": false
       }
     ]
   }
